@@ -6,3 +6,5 @@ COCO is a large-scale object detection, segmentation, and captioning dataset.
 http://cocodataset.org/#home
 Apart from the training dataset i've successfully implemented the accuracy of 95% from this taining values.
 There is an problem with existing model because it is partially developed system so we can train as amny possible values as we want
+
+Sir Report Upload Kar Rhaa Hu !
